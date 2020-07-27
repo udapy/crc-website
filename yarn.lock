@@ -9322,10 +9322,10 @@ react-bootstrap@^1.0.0:
     uncontrollable "^7.0.0"
     warning "^4.0.3"
 
-react-data-table-component@^6.3.4:
-  version "6.9.1"
-  resolved "https://registry.yarnpkg.com/react-data-table-component/-/react-data-table-component-6.9.1.tgz#7ea152cff98af1e9bdfc4a9366af9fb4fddd55b8"
-  integrity sha512-84FqhmyJZAsai0AUsg+eK80Dw3vlZCKAqfZ0S9oCeKufTa6Q+8Vvk9+uQrh7/xukupp+fa3cF48FRMsuRnj/0A==
+react-data-table-component@^6.9.8:
+  version "6.9.8"
+  resolved "https://registry.yarnpkg.com/react-data-table-component/-/react-data-table-component-6.9.8.tgz#73be279dbe816e93d8d7e183fac14341adc70fb6"
+  integrity sha512-emLerymzNoLZWIJHRPksjO/d9AW2EdWKWxkbP6xVzzvCN5mu6MHJxpiuEtp9FxwgGd+H7lJ0GPbl1lpM+CHZvA==
   dependencies:
     deepmerge "^4.2.2"
     lodash.orderby "^4.6.0"
