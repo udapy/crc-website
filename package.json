@@ -11,7 +11,7 @@
     "novelcovid": "^1.1.0",
     "react": "^16.13.0",
     "react-bootstrap": "^1.0.0",
-    "react-data-table-component": "^6.3.4",
+    "react-data-table-component": "^6.11.2",
     "react-dom": "^16.13.0",
     "react-fontawesome": "^1.7.1",
     "react-kawaii": "^0.16.0",
