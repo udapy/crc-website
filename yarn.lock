@@ -9322,14 +9322,14 @@ react-bootstrap@^1.0.0:
     uncontrollable "^7.0.0"
     warning "^4.0.3"
 
-react-data-table-component@^6.3.4:
-  version "6.9.1"
-  resolved "https://registry.yarnpkg.com/react-data-table-component/-/react-data-table-component-6.9.1.tgz#7ea152cff98af1e9bdfc4a9366af9fb4fddd55b8"
-  integrity sha512-84FqhmyJZAsai0AUsg+eK80Dw3vlZCKAqfZ0S9oCeKufTa6Q+8Vvk9+uQrh7/xukupp+fa3cF48FRMsuRnj/0A==
+react-data-table-component@^6.11.6:
+  version "6.11.6"
+  resolved "https://registry.yarnpkg.com/react-data-table-component/-/react-data-table-component-6.11.6.tgz#4859182afb6885de94cc04336dc9ca5b4dbbf3a5"
+  integrity sha512-TQv8udIZbMQNYIdoD2t8WTW81A18RH2erowE9Cka030NE6YOY6wX0E1bqeaCTN4+dQkmTOvwNdHCc5EDXuXewg==
   dependencies:
     deepmerge "^4.2.2"
     lodash.orderby "^4.6.0"
-    shortid "^2.2.15"
+    shortid "^2.2.16"
 
 react-dev-utils@^10.2.0:
   version "10.2.1"
@@ -10301,10 +10301,10 @@ shellwords@^0.1.1:
   resolved "https://registry.yarnpkg.com/shellwords/-/shellwords-0.1.1.tgz#d6b9181c1a48d397324c84871efbcfc73fc0654b"
   integrity sha512-vFwSUfQvqybiICwZY5+DAWIPLKsWO31Q91JSKl3UYv+K5c2QRPzn0qzec6QPu1Qc9eHYItiP3NdJqNVqetYAww==
 
-shortid@^2.2.15:
-  version "2.2.15"
-  resolved "https://registry.yarnpkg.com/shortid/-/shortid-2.2.15.tgz#2b902eaa93a69b11120373cd42a1f1fe4437c122"
-  integrity sha512-5EaCy2mx2Jgc/Fdn9uuDuNIIfWBpzY4XIlhoqtXF6qsf+/+SGZ+FxDdX/ZsMZiWupIWNqAEmiNY4RC+LSmCeOw==
+shortid@^2.2.16:
+  version "2.2.16"
+  resolved "https://registry.yarnpkg.com/shortid/-/shortid-2.2.16.tgz#b742b8f0cb96406fd391c76bfc18a67a57fe5608"
+  integrity sha512-Ugt+GIZqvGXCIItnsL+lvFJOiN7RYqlGy7QE41O3YC1xbNSeDGIRO7xg2JJXIAj1cAGnOeC1r7/T9pgrtQbv4g==
   dependencies:
     nanoid "^2.1.0"
 
