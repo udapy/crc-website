@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@aero/centra@^1.0.3":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@aero/centra/-/centra-1.0.6.tgz#0151359a4c6a9054d36fa6c31353b2fd3d860e6f"
+  integrity sha512-e7sUh/VjugT8LsHb4/hcbmhaVVi9deWWPQnlMnU0RAnF8+iCdGdCcKvoHnDNl/ELykwjpbKpBYbWPx0yKZaDpw==
+
 "@babel/code-frame@7.8.3", "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.8.3":
   version "7.8.3"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.8.3.tgz#33e25903d7481181534e12ec0a25f16b6fcf419e"
@@ -7621,11 +7626,6 @@ no-case@^3.0.3:
     lower-case "^2.0.1"
     tslib "^1.10.0"
 
-node-fetch@*:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
-  integrity sha512-8dG4H5ujfvFiqDmVu9fQ5bOHUC15JMjMY/Zumv26oOvvVJjM67KF8koCWIabKQ1GJIa9r2mMZscBq/TbdOcmNA==
-
 node-forge@0.9.0:
   version "0.9.0"
   resolved "https://registry.yarnpkg.com/node-forge/-/node-forge-0.9.0.tgz#d624050edbb44874adca12bb9a52ec63cb782579"
@@ -7728,12 +7728,12 @@ normalize-url@^3.0.0:
   resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-3.3.0.tgz#b2e1c4dc4f7c6d57743df733a4f5978d18650559"
   integrity sha512-U+JJi7duF1o+u2pynbp2zXDW2/PADgC30f0GsHZtRh+HOcXHnw137TrNlyxxRvWW5fjKd3bcLHPxofWuCjaeZg==
 
-novelcovid@^1.1.0:
-  version "1.2.7"
-  resolved "https://registry.yarnpkg.com/novelcovid/-/novelcovid-1.2.7.tgz#dc8e00f1697285562fd0cb5eb52ad80bbbaa194a"
-  integrity sha512-Kfu4pzlBNpLSU+W4tC5oO5fEYB8k//TAK0FZUL/d/YvaEziMgfTlJkgipV5Nr60CwBZbixzyJp/H+gvx1BAyZg==
+novelcovid@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/novelcovid/-/novelcovid-3.0.2.tgz#62eac242afd2ae8eda2151fd7ca365e534cba98c"
+  integrity sha512-JPMmLip5ZIyhXg70oRszXpBjMuitN0vKq0cj5hs1lY0w99fmqjyu4o36P9WntGAlzPDTE1wuj29P3HzUutxQrg==
   dependencies:
-    node-fetch "*"
+    "@aero/centra" "^1.0.3"
 
 npm-run-path@^2.0.0:
   version "2.0.2"
